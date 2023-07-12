@@ -1,7 +1,3 @@
-/titanic/.ipynb_checkpoints
-/space_titanic/.ipynb_checkpoints
-/housing/.ipynb_checkpoints
-/cancer/.ipynb_checkpoints
-/global_emissions/.ipynb_checkpoints
-
+.idea
+**/.ipynb_checkpoints
 **/models
